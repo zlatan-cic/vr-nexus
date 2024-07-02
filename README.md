@@ -17,4 +17,4 @@ Here is a screenshot of the project:
 
 ## Live Demo
 
-Check out the live demo: [Live Demo]()
+Check out the live demo: [Live Demo](https://vr-nexus.vercel.app/)
